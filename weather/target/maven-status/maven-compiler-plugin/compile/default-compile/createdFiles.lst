@@ -1,0 +1,4 @@
+com\test\weather\WeatherApplication.class
+com\test\weather\SecurityConfig.class
+com\test\weather\WeatherController.class
+com\test\weather\WeatherService.class
